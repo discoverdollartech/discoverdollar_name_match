@@ -6,9 +6,8 @@ setup(
     description='My private package from private github repo',
     url='https://github.com/discoverdollartech/print-msg',
     author='srikant hiremath',
-    license='MIT'
     author_email='srikant.hiremath@discoverdollar.com',
-    license='unlicense',
+    license='MIT',
     packages=['print_msg'],
     zip_safe=False
 )
