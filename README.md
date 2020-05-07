@@ -1,7 +1,7 @@
-# vendor name match
+# Vendor name match
 A python package to match partial vendor name to the actual vendor name
 
-## usage
+## Usage
 
 
 !pip install --user discoverdollar-name-match
